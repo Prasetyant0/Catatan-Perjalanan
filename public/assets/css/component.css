@@ -1,0 +1,31 @@
+.card-table {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 12px 60px;
+    background-color: white;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.card{
+    box-shadow: 0 4px 8px 2px rgba(0,0,0,0.2);
+    margin: 12px 24rem;
+    border-radius: 20px;
+    margin-top: 5rem;
+    background-color: white;
+    transition: 0.3s;
+    padding-top: 1.2rem;
+    padding-bottom: 3rem;
+}
+
+.container {
+    position: relative;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+}
